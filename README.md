@@ -2,6 +2,26 @@
 
 Evidence-bounded lifecycle infrastructure and reviewer artifact for the FORE/TRACE NeurIPS 2026 Creative AI Track paper.
 
+## Paper
+
+- Final paper: https://github.com/aarnavt7/FORE-TRACE/releases/download/v1.1.1/FORE_TRACE_NeurIPS_2026_FINAL_PAPER.pdf
+- Paper SHA-256: `e8b91356589658f775794ca5dae3c852c213dbf66e946c3cf72fb79b964c692e`
+- Format: 16 US-letter pages — six main-content pages, two reference pages, and the completed eight-page NeurIPS checklist
+
+The paper reports a synthetic systems study with no participants or private-draft data. One of six SmolLM-128 analytic units passed Gate A locally; neither cross-block rule authorized an aggregate order. The retained-record verification is not an independent replication or a fresh stochastic-generation run.
+
+## Paper authorship
+
+The FORE/TRACE manuscript is authored by Srujan Chilakapati, Aarnav Trivedi, Safwaan Majid, Arnav Mahajan, Pratyay Jakkula, and Saketh Nandam. All six authors contributed equally.
+
+Affiliations:
+
+- **Academies of Loudoun, Leesburg, Virginia:** Srujan Chilakapati and Aarnav Trivedi
+- **Rock Ridge High School, Ashburn, Virginia:** Safwaan Majid, Arnav Mahajan, and Saketh Nandam
+- **Thomas Jefferson High School for Science and Technology, Alexandria, Virginia:** Pratyay Jakkula
+
+The immutable v1.1.1 reviewer-artifact ZIP predates this paper-title-page update. Its bytes and published digest remain unchanged; current paper authorship is defined by the final paper and this repository/release description.
+
 ## Canonical reviewer artifact
 
 Download the exact uploaded release asset, not GitHub's automatically generated source archives:
@@ -11,6 +31,8 @@ Download the exact uploaded release asset, not GitHub's automatically generated 
 - SHA-256: `94565338953d2eb5908766b53d45e1066dbef28bb9b82fb6bd534476a151d9c6`
 - Size: `42,784,856` bytes
 - External manifest SHA-256: `b64de1ddf6d999e43d8f4cec65db9d055b52e8bc2f2d7443bbf50aa4f3a6ef25`
+
+The final paper PDF listed above is a separate release asset and is not part of the canonical reviewer-artifact ZIP.
 
 Version 1.1.1 is solely a packaging repair that declares and lock-binds Matplotlib 3.11.1. It does not change retained scientific or display bytes, records, protocol, conclusions, privacy boundaries, or analytic-unit accounting. The unpublished v1.1.0 candidate is intentionally not provided.
 
@@ -54,4 +76,4 @@ In a pristine extraction, 108/112 tests pass and those four stop only because no
 
 ## Licensing
 
-Original code and documentation are provided under the MIT License. Author-controlled synthetic fixtures and retained synthetic material are provided under CC BY 4.0 to the extent the author holds the relevant rights. Third-party dependencies and model references remain governed by their upstream terms; model weights are not redistributed.
+Original code and documentation are provided under the MIT License. Author-controlled synthetic fixtures and retained synthetic material are provided under CC BY 4.0 to the extent the applicable rightsholders hold the relevant rights. Third-party dependencies and model references remain governed by their upstream terms; model weights are not redistributed.
