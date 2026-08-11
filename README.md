@@ -5,14 +5,14 @@ Evidence-bounded lifecycle infrastructure and reviewer artifact for the FORE/TRA
 ## Paper
 
 - Final paper: https://github.com/aarnavt7/FORE-TRACE/releases/download/v1.1.1/FORE_TRACE_NeurIPS_2026_FINAL_PAPER.pdf
-- Paper SHA-256: `607e37ddf0d9837aad6b5fef00b153f620e18e9802718708f5a89bc52edcb77a`
+- Paper SHA-256: `7bae88bcb5ad9bde6bf595cf0a4b2c6f08bce6c4897874606c63d1917fc3b526`
 - Format: 16 US-letter pages — six main-content pages, two reference pages, and the completed eight-page NeurIPS checklist
 
 The paper reports a synthetic systems study with no participants or private-draft data. One of six SmolLM-128 analytic units passed Gate A locally; neither cross-block rule authorized an aggregate order. The retained-record verification is not an independent replication or a fresh stochastic-generation run.
 
 ## Paper authorship
 
-The FORE/TRACE manuscript is authored by Srujan Chilakapati, Aarnav Trivedi, Safwaan Majid, Arnav Mahajan, Pratyay Jakkula, and Saketh Nandam. All six authors contributed equally and share first authorship.
+The FORE/TRACE manuscript is authored by Srujan Chilakapati, Aarnav Trivedi, Safwaan Majid, Arnav Mahajan, Pratyay Jakkula, and Saketh Nandam. All six authors contributed equally.
 
 Affiliations:
 
